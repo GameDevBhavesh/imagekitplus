@@ -1,7 +1,13 @@
 # imagekitplus
 
-A new Flutter plugin project.
+to start example on terminal
+1) cd example
+2) flutter run
 
+3) plugin code is loacated under root/ios/Classes/SwiftImagekitplusPlugin.swift
+
+## Setup flutter on mac
+(https://docs.flutter.dev/get-started/install/macos/mobile-ios)
 ## Getting Started
 
 This project is a starting point for a Flutter
