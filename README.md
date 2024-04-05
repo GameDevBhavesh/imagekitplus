@@ -1,5 +1,9 @@
 # imagekitplus
 
+#requirements
+1)flutter setup on dev system
+2)xcode (15 for latest vision api)
+
 to start example on terminal
 1) cd example
 2) flutter run
